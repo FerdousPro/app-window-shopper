@@ -1,11 +1,3 @@
-//
-//  window_shopperTests.swift
-//  window-shopperTests
-//
-//  Created by Ferdous Ahmed on 12/27/17.
-//  Copyright © 2017 Ferdous Ahmed. All rights reserved.
-//
-
 import XCTest
 
 class window_shopperTests: XCTestCase {
